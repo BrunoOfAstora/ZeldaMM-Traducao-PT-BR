@@ -1,0 +1,49 @@
+{
+    "authors" : [
+        "BrunoOfAstora"
+    ],
+    "config_schema" : {
+        "options" : [
+            {
+                "default" : "First",
+                "description" : "Test enum config option",
+                "id" : "enum_option",
+                "name" : "Enum Option",
+                "options" : [
+                    "First",
+                    "Second"
+                ],
+                "type" : "Enum"
+            },
+            {
+                "default" : 1,
+                "description" : "Test number config option.",
+                "id" : "number_option",
+                "max" : 10,
+                "min" : 0,
+                "name" : "Number Option",
+                "percent" : false,
+                "precision" : 1,
+                "step" : 0.10000000000000001,
+                "type" : "Number"
+            },
+            {
+                "default" : "Lorem Ipsum",
+                "description" : "Test string config option.",
+                "id" : "string_option",
+                "name" : "String Option",
+                "type" : "String"
+            }
+        ]
+    },
+    "dependencies" : [
+        "MM_EZ_Text_Replacer_API:2.0.0"
+    ],
+    "description" : "Este MOD traduz a vers\u00E3o recompilada do Zelda Majora's Mask para Portugu\u00EAs-Brasileiro (Em Progresso) ** DEPEND\u00CANCIAS: Esse mod depende da API \"EZ Text Replacer API\" vers\u00E3o 2.0.0.x **\n\nLink do Github(LT_Schmiddy): https://github.com/LT-Schmiddy/mm-ez-text-replacement-utils/releases\n\nLink de Download Direto: https://thunderstore.io/package/download/LT_Schmiddy/EZ_Text_Replacer_API/2.0.0/\n\nThanks to: LT_Schmiddy\n\n\nGitHub: https://github.com/BrunoOfAstora\n",
+    "display_name" : "Zelda Majora's Mask Traduzido p/ PT-BR (WIP)",
+    "game_id" : "mm",
+    "id" : "zeldamm_traducao_ptbr_by_brunosilvaferreira",
+    "minimum_recomp_version" : "1.2.0",
+    "short_description" : "Trau\u00E7\u00E3o para PT-BR por: Bruno (Git:BrunoOfAstora)",
+    "version" : "1.0.0"
+}

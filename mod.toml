@@ -1,0 +1,83 @@
+[manifest]
+
+id = "zeldamm_traducao_ptbr_by_brunosilvaferreira"
+
+version = "1.0.0"
+
+display_name = "Zelda Majora's Mask Traduzido p/ PT-BR (WIP)"
+
+description =  """
+Este MOD traduz a versão recompilada do Zelda Majora's Mask para Português-Brasileiro (Em Progresso) \
+
+** DEPENDÊNCIAS: Esse mod depende da API "EZ Text Replacer API" versão 2.0.0.x **
+
+Link do Github(LT_Schmiddy): https://github.com/LT-Schmiddy/mm-ez-text-replacement-utils/releases
+
+Link de Download Direto: https://thunderstore.io/package/download/LT_Schmiddy/EZ_Text_Replacer_API/2.0.0/
+
+Thanks to: LT_Schmiddy
+
+
+GitHub: https://github.com/BrunoOfAstora
+"""
+
+short_description = "Traução para PT-BR por: Bruno (Git:BrunoOfAstora)"
+
+authors = [ "BrunoOfAstora" ]
+
+# ID of the target recomp game.
+game_id = "mm"
+
+minimum_recomp_version = "1.2.0"
+
+dependencies = [
+    "MM_EZ_Text_Replacer_API:2.0.0"
+]
+
+# Native libraries (e.g. DLLs) and the functions they export.
+native_libraries = [
+# Example native library:
+#    { name = "my_native_library", funcs = ["my_native_library_function"] }
+]
+
+# Inputs to the mod tool.
+[inputs]
+
+# Input elf file to generate a mod from.
+elf_path = "build/mod.elf"
+
+mod_filename = "ZeldaMM_Traducao_PTBR"
+
+# Reference symbol files.
+func_reference_syms_file = "Zelda64RecompSyms/mm.us.rev1.syms.toml"
+data_reference_syms_files = [ "Zelda64RecompSyms/mm.us.rev1.datasyms.toml", "Zelda64RecompSyms/mm.us.rev1.datasyms_static.toml" ]
+
+# Additional files to include in the mod.
+additional_files = [ ]
+
+[[manifest.config_options]]
+id = "enum_option"
+name = "Enum Option"
+description = "Test enum config option"
+type = "Enum"
+options = [ "First", "Second" ]
+default = "First"
+
+[[manifest.config_options]]
+id = "number_option"
+name = "Number Option"
+description = "Test number config option."
+type = "Number"
+min = 0
+max = 10
+step = 0.1
+precision = 1
+percent = false
+default = 1
+
+[[manifest.config_options]]
+id = "string_option"
+name = "String Option"
+description = "Test string config option."
+type = "String"
+default = "Lorem Ipsum"

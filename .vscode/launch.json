@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/home/groundzero/zeldinhamaster/ZeldaMM-PT-BR-Zelda64Recomp/TradBeta/src",
+      "program": "/home/groundzero/zeldinhamaster/ZeldaMM-PT-BR-Zelda64Recomp/TradBeta/src/build/Debug/outDebug"
+    }
+  ]
+}
