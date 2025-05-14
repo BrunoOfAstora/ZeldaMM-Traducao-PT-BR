@@ -12,6 +12,13 @@ Mas, se mesmo assim quiser baixar o MOD ainda incompleto, basta ir na aba **Rele
 
 - [EZ Text Replacer API](https://thunderstore.io/c/zelda-64-recompiled/p/LT_Schmiddy/EZ_Text_Replacer_API/)
 
+  
+&nbsp;
+
+### Bugs Conhecidos 🐛 (_Todos os bugs listados a seguir, serão corrigidos o mais breve possível_):
+- Algumas interações que requiram que o jogador deposite Rupias, não estão funcionando
+- Algumas interações com certos NPC's, não podem ser feitas mais de uma vez
+
 &nbsp;
 
 ## **Progresso Atual (v0.2.0-alpha):**
