@@ -2263,7 +2263,8 @@ EZTR_Basic_ReplaceText(0x12BD, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, E
 EZTR_Basic_ReplaceText(0x12BE, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Foi você que acendeu?|11|12Me salvou.|11Toma... Compre o que quiser!|19", NULL);  
 EZTR_Basic_ReplaceText(0x12BF, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Pronto... Luzes ajustadas.|11Agora é so esperar... Mas logo vao apagar de novo...|19", NULL);
 
-EZTR_Basic_ReplaceText(0x12C0, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "What do you want, Mikau?|11Are you checking the stage?|19", NULL);
+EZTR_Basic_ReplaceText(0x12C0, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "O que voce quer Mikau?|11Voce esta checando o estagio?|19", NULL);
+
 EZTR_Basic_ReplaceText(0x12C1, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "I don't know why, but there's|11something wrong with the|11lighting...|19", NULL);
 EZTR_Basic_ReplaceText(0x12C2, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "The lighting isn't working right.|19", NULL);
 EZTR_Basic_ReplaceText(0x12C3, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Mikau...|11How do you like it? The lights are|11perfect.|19", NULL);
@@ -4356,7 +4357,6 @@ EZTR_Basic_ReplaceText(0x332D, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, E
 EZTR_Basic_ReplaceText(0x332E, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Se voce ficar sem |01flechas|00, temos|11|01caixas |00com elas perto da casa,|11entao reabasteca quando precisar.|BF", NULL);
 EZTR_Basic_ReplaceText(0x332F, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Aaiieee-Aaaaaahhh!!!|BF", NULL);
 EZTR_Basic_ReplaceText(0x3330, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "|07|05........|BF", NULL);
-<<<<<<< HEAD
 EZTR_Basic_ReplaceText(0x3331, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "We did it...We won.|BF", NULL);
 EZTR_Basic_ReplaceText(0x3332, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Thank you! Thanks to you, the|11cows are giving thanks, too!|19", NULL);
 EZTR_Basic_ReplaceText(0x3333, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Here's Romani's thanks. When you|11drink it, put your hand on your|11hip and take a big gulp like we do|11here at the ranch!|19", NULL);
@@ -4588,7 +4588,7 @@ EZTR_Basic_ReplaceText(0x34AB, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, E
 EZTR_Basic_ReplaceText(0x34AC, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Compare what he does to what we|11do...|19", NULL);
 EZTR_Basic_ReplaceText(0x34AD, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "No! No! Noooo!|11And the things that we, the|11Gorman Brothers, have done...|11|12Grrrr...|11We're the notorious Gorman|11Brothers! We can't get all sappy|11over stuff like this!|19", NULL);
 EZTR_Basic_ReplaceText(0x34AE, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "I'm sorry, but take that mask off.|11|12I can't get anything done when|11you gaze at me with that mask|11on.|BF", NULL);
-=======
+
 EZTR_Basic_ReplaceText(0x3331, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Nos conseguimos... Vencemos.|BF", NULL);
 EZTR_Basic_ReplaceText(0x3332, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Obrigado! Gracas a voce, as|11vacas tambem estao agradecendo!|19", NULL);
 EZTR_Basic_ReplaceText(0x3333, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Aqui esta o agradecimento da Romani. Quando voce|11beber, coloque a mao na cintura|11e tome um gole bem grande como a gente faz|11aqui no rancho!|19", NULL);
@@ -4830,7 +4830,7 @@ EZTR_Basic_ReplaceText(0x34AB, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, E
 EZTR_Basic_ReplaceText(0x34AC, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Compare o que ele faz com o que|11nos fazemos...|19", NULL);
 EZTR_Basic_ReplaceText(0x34AD, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Nao! Nao! Naaaao!|11E as coisas que nos, os|11Irmaos Gorman, fizemos...|11|12Grrrr...|11Somos os temidos Irmaos|11Gorman! Nao podemos ficar|11emocionados com esse tipo de coisa!|19", NULL);
 EZTR_Basic_ReplaceText(0x34AE, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Desculpe, mas tire essa mascara.|11|12Nao consigo fazer nada quando|11voce me encara com essa mascara|11no rosto.|BF", NULL);
->>>>>>> 4d53be95173f6f26f66e0939900118ae2149b917
+
 EZTR_Basic_ReplaceText(0x34AF, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, ".........|19", NULL);
 EZTR_Basic_ReplaceText(0x34B0, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Tire essa mascara.|11Nao consigo falar quando voce me|11olha com essa mascara no rosto.|BF", NULL);
 EZTR_Basic_ReplaceText(0x34B1, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, ".........|19", NULL);
@@ -4882,3 +4882,4 @@ EZTR_Basic_ReplaceText(0x354A, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, E
 EZTR_Basic_ReplaceText(0x354B, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Ai meu deus, o que voce esta fazendo|11com meus caes? Coloque o cao no chao e|11se afaste do canil!|19", NULL);
 EZTR_Basic_ReplaceText(0x354C, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Quer jogar de novo?|11 |11|02|02|C2Sim\n|11Nao|BF", NULL);
 
+}
