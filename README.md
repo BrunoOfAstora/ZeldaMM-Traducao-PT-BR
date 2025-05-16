@@ -22,8 +22,8 @@ Mas, se mesmo assim quiser baixar o MOD ainda incompleto, basta ir na aba **Rele
 &nbsp;
 
 ## **Progresso Atual (v0.2.0-alpha):**
-🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ 20%~
-#### _Aprox. 20% dos diálogos e textos traduzidos_
+🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️ 55%~
+#### _Aprox. 55% dos diálogos e textos traduzidos_
 
 &nbsp;
 
