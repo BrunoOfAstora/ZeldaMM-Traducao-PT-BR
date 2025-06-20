@@ -50,7 +50,7 @@ Para fazer a Build, primeiro:
 - O Mod estará pronto na pasta build como um arquivo .nrm
   
 &nbsp;
-## A fazer;
+## TO-DO:
 - [ ] Corrigir todos os bugs de interação que podem vir a gerar um soflock em algum balão de fala
 
 - [ ] Ajustar a posição das linhas de diálogo para a posição original
