@@ -3133,7 +3133,7 @@ EZTR_Basic_ReplaceText(0x1D12, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, E
 EZTR_Basic_ReplaceText(0x1D13, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "|02|C3Pico Nevada    |0120 rúpias|11|02Rancho Romani |0140 rúpias|11|02Não, obrigado|BF", NULL);
 EZTR_Basic_ReplaceText(0x1D14, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "|02|C3Rancho Romani |0120 rúpias|11|02Grande Baía    |0140 rúpias|11|02Não, obrigado|BF", NULL);
 EZTR_Basic_ReplaceText(0x1D15, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "|02|C3Grande Baía    |0120 rúpias|11|02Torre de Pedra |0140 rúpias|11|02Não, obrigado|BF", NULL);
-EZTR_Basic_ReplaceText(0x1D16, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "|02|C3Torre de Pedra |0120 rúpias|11|02Cidade do Relógio   |0140 rúpias|11|02Não, obrigado|BF", NULL);L);
+EZTR_Basic_ReplaceText(0x1D16, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "|02|C3Torre de Pedra |0120 rúpias|11|02Cidade do Relógio   |0140 rúpias|11|02Não, obrigado|BF", NULL);
 
 EZTR_Basic_ReplaceText(0x1D17, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Bem, ligue de novo!|19|BF", NULL);
 EZTR_Basic_ReplaceText(0x1F40, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Hee, hee.|11Vocês duas fadas mandaram bem!|11|12Sera que ele tem algo bom|11com ele...|11|12Hein?|11Esse cara...|11|12...Bem, isso nao deve ser um|11problema.|BF", NULL);
@@ -4146,7 +4146,7 @@ EZTR_Basic_ReplaceText(0x29EB, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, E
 EZTR_Basic_ReplaceText(0x29EC, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "O quê?|11Você disse |06100|00...|19", NULL);
 EZTR_Basic_ReplaceText(0x29ED, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Ohhhh... Então você não quer que eu|11tire isso das suas mãos...|19", NULL);
 EZTR_Basic_ReplaceText(0x29EE, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Es-Es-Espere! É um acordo! É um acordo!|19", NULL);
-EEZTR_Basic_ReplaceText(0x29EF, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Por isso, eu te darei|11.|11|02|02|C2Eu aceito\n|11Não, obrigado|BF", NULL);
+EZTR_Basic_ReplaceText(0x29EF, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Por isso, eu te darei|11.|11|02|02|C2Eu aceito\n|11Não, obrigado|BF", NULL);
 EZTR_Basic_ReplaceText(0x29F0, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Você não tem |06Rupias|00 suficientes!|19", NULL);
 EZTR_Basic_ReplaceText(0x29F1, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "Agora Kafei...|11Ele diz que quer que você leve|11isso para a mãe dele.|19", NULL);
 EZTR_Basic_ReplaceText(0x29F2, EZTR_STANDARD_TEXT_BOX_I, 1, EZTR_ICON_NO_ICON, EZTR_NO_VALUE, EZTR_NO_VALUE, EZTR_NO_VALUE, true, "|01Espada Boa: 100 rúpias|11|00Acabei de receber esta espada. É uma|11barganha. Juro por Deus.|1A", NULL);
