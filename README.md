@@ -62,10 +62,6 @@ Para fazer a Build, primeiro:
 - [ ] Traduzir o jogo 100% (incluindo texturas)
 &nbsp;
 
-> [!IMPORTANT]
-> Esse projeto está em andamento e está sendo desenvolvido por apenas uma pessoa.  
-> Se quiser me indicar alguma ferramenta que possa acelerar o processo, ou se quiser fazer parte do projeto, por favor entre em contato.
-
 
 
 
