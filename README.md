@@ -1,4 +1,4 @@
-# Tradução PT-BR para o Majora's Mask Recompiled (Pausado)
+# Tradução PT-BR para o Majora's Mask Recompiled 
 
 > [!CAUTION]
 > **Atenção:** O MOD ainda está incompleto e em desenvolvimento; utilizar esse MOD nesse estado pode causar bugs, crashes ou _Soft-Locks_ no seu jogo.
